@@ -1,0 +1,91 @@
+.adddataform {
+   background-color: #0c3c4c;
+    padding: 20px;
+    position: absolute;
+    top: 28.5%;
+    margin:40px;
+    width: 45%;
+    height: 300px;
+}
+.adddataform input  {
+    margin: 8px;
+    background-color: white;
+    
+}
+#predictedresult{
+    
+    margin-top: 40px;
+    height: 50px;
+    font-size: x-large;
+    color: white;
+    padding-left: 20px;
+}
+
+.adddataform input ::placeholder{
+    
+}
+.message{
+    background-color: #09eab4;
+    width: 30%;
+   
+    position: absolute;
+    left: 38%;
+   
+    
+}
+.predictform{
+    background-color: #0c3c4c;
+    margin-left: 55%;
+    position: absolute;
+    top: 34%;
+    height: 300px;
+    width: 42%;
+    padding-top: 20px;
+}
+.predictform input {
+    margin: 10px;
+    background-color: white;
+  
+    
+}
+.predictform input ::placeholder{
+   
+}
+#predictbutton{
+  
+    
+    position: absolute;
+    top: 40%;
+    left: 2%;
+    border-radius: 5px;
+
+    background-color: aqua;
+
+}
+#adddatabutton
+{
+  
+    margin-left: 45%;
+    border-radius: 5px;
+    background-color: aqua;
+}
+#dropdownbtn{
+   
+    margin-top: 1px;
+    justify-content: center;
+}
+#dropdownbtn  button{
+     margin: 5px;
+     size: 5px;
+     background-color: aqua;
+     
+}
+.speciestitle{
+ font-weight: 400;
+ margin-left: 10px;     
+}
+#savemodelbutton{
+    margin-left: 45%;
+    margin-top:10%;
+    background-color: aqua;
+}
